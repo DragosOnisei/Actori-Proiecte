@@ -1,0 +1,10 @@
+/* Definește stilurile pentru butonul "plus" */
+.add-to-project {
+    /* Poziționează butonul absolut în cadrul elementului părinte */
+    position: absolute;
+    /* Plasează butonul în colțul din dreapta sus al elementului părinte */
+    top: 0;
+    right: 0;
+    /* Schimbă cursorul pentru a indica faptul că butonul poate fi apăsat */
+    cursor: pointer;
+}
